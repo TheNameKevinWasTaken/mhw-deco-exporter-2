@@ -2,17 +2,21 @@
 Thanks and credit at the end.
 
 Requirements:
+
     - This tool was written in python 3.7 so I can’t confirm it works with any other version.
     - I'll put together an exe with pyinstaller for people who don’t want to get all the python packages needed.
         - If you see this, I haven’t done it yet
 
 What it does:
+
   It copies your monster hunter save to a temp folder > decrypts it > grabs the deco data > deletes the temp folder > exports yours decos
   It never makes changes to your original save file, the only time it touches the file is to copy it
 
 How to use it:
+
   Before Using: go to your item box > set decorations > current equipment > press any deco > press "x" on keyboard or "start" on controller to remove all > save game
     The program reads the deco data from your box, it can’t grab ones on your equipment
+    
   To use the program simply run deco-exporter.py with the decos.txt, floats.pickle, and ints.pickle files in the same directory. (or the exe when I make it)
   Press the 
     "Open Web Pages to get ID"
