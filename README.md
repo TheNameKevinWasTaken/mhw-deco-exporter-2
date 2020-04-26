@@ -9,8 +9,9 @@
 ## Requirements:
 
     - This tool was written in python 3.7 so I can’t confirm it works with any other version.
-    - I'll put together an exe with pyinstaller for people who don’t want to get all the python packages needed.
-        - If you see this, I haven’t done it yet
+    - Here is an exe made with pyinstaller for people who don’t want to get all the python packages needed.
+        - https://drive.google.com/open?id=1GR3LrlAJ-cF1X6OScxr4Y3eWKK6ZHYRg
+        - If anyone knows of a better way to share it let me know, its ~40MB
 
 ## How to use it:
   Before using: go to your item box > set decorations > current equipment > press any deco > press "x" on keyboard or "start" on controller to remove all > save game (The program reads the deco data from your box, it can’t grab ones on your equipment)
