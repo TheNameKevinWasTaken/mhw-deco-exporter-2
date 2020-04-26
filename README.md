@@ -8,8 +8,8 @@
 
 ## Requirements:
 
-    - This tool was written in python 3.7 so I can’t confirm it works with any other version.
-    - Here is an exe made with pyinstaller for people who don’t want to get all the python packages needed.
+  This tool was written in python 3.7 so I can’t confirm it works with any other version.
+  If you dont have/dont want to get python you can use this exe, made with pyinstaller.
         - https://drive.google.com/open?id=1GR3LrlAJ-cF1X6OScxr4Y3eWKK6ZHYRg
         - If anyone knows of a better way to share it let me know, its ~40MB
 
