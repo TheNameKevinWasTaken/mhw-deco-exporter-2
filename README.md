@@ -1,5 +1,7 @@
 # mhw-deco-exporter-2
 
+Found a site that hosts py scripts so I modified it to run there: http://pocget.pythonanywhere.com/
+
 ## What it does:
   It copies your monster hunter save to a temp folder > decrypts it > grabs the deco data > deletes the temp folder > exports yours decos.
   It never makes changes to your original save file, the only time it touches the file is to copy it.
