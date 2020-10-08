@@ -8864,17 +8864,3 @@ opened_file = open(file_path, "rb").read()
 save_de = mainDecrypt(opened_file)
 result = mainConvert(save_de)
 print(result)
-
-# def flaskDecrypt(save):
-#     result_txt = ""
-#     save_de = mainDecrypt(save)
-#     result = mainConvert(save_de)
-#     if len(result) > 1:
-#         for x, i in enumerate(result):
-#             result_txt = f"\nsave {x}:\n{i}{result_txt}"
-#         return result_txt
-
-#     return result[0]
-
-# result = flaskDecrypt(save)
-# return result
